@@ -1,0 +1,5 @@
+{
+  "name": "File Resizer Pro",
+  "description": "An intuitive web application to resize images to a specific file size between 5 KB and 1000 KB, and to optimize PDF documents. Built with React and Tailwind CSS for a modern, responsive experience.",
+  "requestFramePermissions": []
+}
